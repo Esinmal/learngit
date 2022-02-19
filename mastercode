@@ -1,4 +1,7 @@
 ---
  - name: new playbook
    hosts: all
-
+   
+ - tasks:
+     yum
+       name: httpd
