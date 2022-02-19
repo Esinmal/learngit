@@ -1,0 +1,4 @@
+---
+ - name: new playbook
+   hosts: all
+
